@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to perform a CRUD operation of the application","I authorize to the application","SUCCESS","2022-06-21T18:39:29.808+01:00[Europe/London]","0.0","4.21"
+"As a user I would like to perform a CRUD operation of the application","I create a booking on the application","SUCCESS","2022-06-21T18:39:34.808+01:00[Europe/London]","0.0","1.06"
+"As a user I would like to perform a CRUD operation of the application","I read a newly created booking from the application","SUCCESS","2022-06-21T18:39:35.896+01:00[Europe/London]","0.0","0.78"
+"As a user I would like to perform a CRUD operation of the application","I update a newly created booking from the application","SUCCESS","2022-06-21T18:39:36.703+01:00[Europe/London]","0.0","0.88"
+"As a user I would like to perform a CRUD operation of the application","I delete a newly created booking from the application","SUCCESS","2022-06-21T18:39:37.671+01:00[Europe/London]","0.0","1.53"
